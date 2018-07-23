@@ -3,15 +3,21 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 Angular 6 on frontend
+
 Angular CLI Universal to link to the local server
+
 Node.js + Express as server
+
 NPM to manage depenencies
+
 Sass to compile css/styles
+
 Karma for Unit Test
 
 ## Prerequisites
 
 Make sure you have node.js installed on your local and the node version > 8.0
+
 Go to https://nodejs.org/en/download to dowanload the latest LTS version
 
 ## Clone the Project
