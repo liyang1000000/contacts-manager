@@ -9,6 +9,10 @@ NPM to manage depenencies
 Sass to compile css/styles
 Karma for Unit Test
 
+## Prerequisites
+
+Make sure you have node.js installed on your local and the node version > 8.0
+Go to https://nodejs.org/en/download to dowanload the latest LTS version
 
 ## Clone the Project
 
